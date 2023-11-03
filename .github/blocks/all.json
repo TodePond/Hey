@@ -4,5 +4,8 @@
   },
   "github-blocks.tldr": {
     "default": "tldraw__tldraw-block__tldraw-file-block"
+  },
+  "are.tldr": {
+    "default": "tldraw__tldraw-block__tldraw-file-block"
   }
 }
