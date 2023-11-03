@@ -1,5 +1,8 @@
 {
   "hey.tldr": {
     "default": "tldraw__tldraw-block__tldraw-file-block"
+  },
+  "github-blocks.tldr": {
+    "default": "tldraw__tldraw-block__tldraw-file-block"
   }
 }
